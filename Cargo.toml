@@ -5,6 +5,7 @@ edition = "2021"
 authors = ["konstantin Gorshkov <kostya_gorshkov_06@vk.com>"]
 description = "Python bindings for Dilithium post-quantum signatures"
 license = "MIT"
+readme = "README.md"
 repository = "https://github.com/kostya2023/dilithium-python"
 
 [lib]
